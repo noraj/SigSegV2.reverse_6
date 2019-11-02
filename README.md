@@ -23,7 +23,7 @@ Helppppppp me!
 
 Flag format: sigsegv{flag}
 
-author: noraj
+author: [noraj](https://pwn.by/noraj/)
 ```
 
 ### Hints

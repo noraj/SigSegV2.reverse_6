@@ -1,4 +1,4 @@
-# Matz 2.3
+# Ruby bytecode reverse engineering/disassembly
 
 ## Version
 
@@ -85,3 +85,9 @@ puts a198563.map{|i| i.chr}.join
 ## Flag
 
 `sigsegv{you_c4n_c0mp1le_ruby_t0_bytec0de}`
+
+## SigSegV2
+
+A reverse challenge that was available during SigSegV2 CTF (2019).
+
+8 teams on 36 flaged this challenge.
